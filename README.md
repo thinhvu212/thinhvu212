@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on gane projects.
+- 🔭 I’m currently working on game projects.
 - 🌱 I’m currently learning C++ and JavaScript.
 - 👯 I’m looking to collaborate on game design.
 <!--
