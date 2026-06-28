@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on game/web app projects.
 - 🌱 I’m currently learning C++ and JavaScript.
 - 👯 I’m looking to collaborate on game/mobile app development.
+
+- [![My Skills](https://skillicons.dev/icons?i=py,html,md,cpp,nextjs,npm,css,vite,tailwind,kotlin)](https://github.com/thinhvu212)
 <!--
 **thinhvu212/thinhvu212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
